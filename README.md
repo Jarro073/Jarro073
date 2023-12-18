@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarro073&label=Profile%20views&color=0e75b6&style=flat" alt="jarro073" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif"
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif">
 
 - 🌱 I’m currently learning **Applied Data Science & Artificial Intelligence**
 
