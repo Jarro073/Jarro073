@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jarro
-- 🌱 I’m currently learning Lua, HTML, CSS
-- 📫 How to reach me Jarro#4139
+- 🖥️ Python, SQL, Lua
+- 🏫 Applied Data Science & Artificial Intelligence
 
